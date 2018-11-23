@@ -14,8 +14,8 @@
 
 
 # Constants
-userdata='X10001012'
-pcpath='/var/lib/backuppc/pc/comphome.computing.stu.it-tallaght.ie'
+userdata='username'
+pcpath='/var/lib/backuppc/pc/pc-name'
 datadir='fdDrive/fHomeDir'
 
 cd $pcpath
